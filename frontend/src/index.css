@@ -1,0 +1,6 @@
+/* Minimal Tailwind-like resets for prototype */
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin:0; padding:0; }
+.container { max-width: 900px; margin: 24px auto; padding: 16px; }
+.card { border: 1px solid #e5e7eb; padding: 12px; border-radius: 8px; margin-bottom:12px; }
+.btn { padding:8px 12px; border-radius:6px; cursor:pointer; border:none; background:#6b21a8; color:white; }
+.input { padding:8px; border-radius:6px; border:1px solid #d1d5db; width:100%; box-sizing:border-box; }
